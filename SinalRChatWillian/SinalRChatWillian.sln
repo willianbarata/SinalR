@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinalRChatWillian.API", "SinalRChatWillian.API\SinalRChatWillian.API.csproj", "{E86463C1-BE86-49D7-8539-CC25EE885C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E86463C1-BE86-49D7-8539-CC25EE885C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86463C1-BE86-49D7-8539-CC25EE885C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86463C1-BE86-49D7-8539-CC25EE885C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86463C1-BE86-49D7-8539-CC25EE885C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1D58AA-DA01-4666-9E4B-98E2D8115F12}
+	EndGlobalSection
+EndGlobal
